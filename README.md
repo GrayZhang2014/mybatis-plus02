@@ -1,4 +1,4 @@
-# mybatis-plus01
+# mybatis-plus02
 
 mybatis0-plus 简单示例2 
 简单查询  示例
